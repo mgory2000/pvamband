@@ -1,0 +1,17 @@
+
+* {
+font-family: Georgia, serif;
+font-size: 25px;
+letter-spacing: 2px;
+word-spacing: 2px;
+color: #000000;
+font-weight: normal;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+}
+
+* {
+background: rgba(225,243,255,0.33) none no-repeat scroll 0 0;
+}
